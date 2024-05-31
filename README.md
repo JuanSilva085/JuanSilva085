@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<br>
+<hr>
 
 ### Olá! Eu sou o Juan 😁
 
