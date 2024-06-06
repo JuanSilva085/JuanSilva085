@@ -15,7 +15,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JuanSilva085&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSilva085&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Tecnologias que estudo atualmente:
+### Technologies I currently study:
 
 <div style="display: inline_block"><br/>
 
