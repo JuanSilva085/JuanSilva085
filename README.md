@@ -15,6 +15,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JuanSilva085&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSilva085&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<hr>
+
+<!---Gif--->
+![9bc27292880429 5e569ff84e4d0 ](https://github.com/JuanSilva085/JuanSilva085/assets/139495502/4c14abb6-e15d-406f-bdf5-ce5ff18bef03)
+
+
+<hr>
+
 ### Technologies I currently study:
 
 <div style="display: inline_block"><br/>
