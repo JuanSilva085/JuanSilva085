@@ -23,7 +23,7 @@
 
 <hr>
 
-### Technologies I currently study:
+### 💻 Technologies I currently study:
 
 <div style="display: inline_block"><br/>
 
