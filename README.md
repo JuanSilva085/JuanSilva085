@@ -24,7 +24,7 @@
 
 ### 💻 Technologies I currently study:
 
-<div style="display: inline_block"><br/>
+<div style="display: inline_block">
 
 <img style="display: inline_block">
 
