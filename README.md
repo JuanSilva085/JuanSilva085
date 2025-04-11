@@ -32,9 +32,20 @@
 <br clear="left"/>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=JuanSilva085&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=JuanSilva085&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSilva085&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=JuanSilva085&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanSilva085&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSilva085&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
+</p>
 
 
 <hr>
