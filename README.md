@@ -1,4 +1,4 @@
-### Hi there 👋. I'm Juan! 😁
+# Hi there 👋. I'm Juan! 😁
 
 <hr>
 
@@ -14,7 +14,7 @@
 
 <hr>
 
-### 💻 Technologies I currently study:
+## 💻 Technologies I currently study:
 
 <div style="display: inline_block">
 
@@ -31,7 +31,7 @@
 
 <br clear="left"/>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <table>
   <tr>
     <td>
