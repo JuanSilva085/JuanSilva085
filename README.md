@@ -47,12 +47,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSilva085&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
 
-
 <hr>
 
-<!---Gif--->
-![9bc27292880429 5e569ff84e4d0 ](https://github.com/JuanSilva085/JuanSilva085/assets/139495502/4c14abb6-e15d-406f-bdf5-ce5ff18bef03)
-
+<p align="center">
+  <img src="https://github.com/JuanSilva085/JuanSilva085/assets/139495502/4c14abb6-e15d-406f-bdf5-ce5ff18bef03" width="500" alt="Coding gif">
+</p>
 
 <hr>
 
