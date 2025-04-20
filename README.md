@@ -7,6 +7,7 @@
 <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B7rmh%2Fo5QQWWGyNDNb5y77Q%3D%3D" target="_blank">
   <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" style="width: 150px; height: auto;">
 </a>
+
 <a href="mailto:juansilvasousa085@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" style="width: 115px; height: auto;">
 </a>
