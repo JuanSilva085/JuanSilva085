@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" style="width: 115px; height: auto;">
 </a>
 
+
 <hr>
 
 ## 💻 Technologies I currently study:
