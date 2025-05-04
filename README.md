@@ -14,7 +14,6 @@
 
 <hr>
 
-
 ## 💻 Technologies I currently study:
 
 <div style="display: inline_block">
