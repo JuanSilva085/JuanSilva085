@@ -15,7 +15,7 @@
 <hr>
 
 
-## 💻 Technologies I currently study:
+## 💻 Technologies that I have already had contact with:
 
 <div style="display: inline_block">
 
