@@ -51,9 +51,3 @@
 
 <hr>
 
-<p align="center">
-  <img src="https://github.com/JuanSilva085/JuanSilva085/assets/139495502/4c14abb6-e15d-406f-bdf5-ce5ff18bef03" width="500" alt="Coding gif">
-</p>
-
-<hr>
-
