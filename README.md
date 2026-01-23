@@ -1,53 +1,43 @@
-# Hi there. I'm Juan! 
+Sou estudante de **Cibersegurança**, com foco em **Segurança Defensiva**.  
 
-<hr>
+Possuo conhecimentos em fundamentos de **Cibersegurança**, **Redes de computadores**, **Linux** e **análise de logs**. Tenho prática em laboratórios de segurança defensiva, desenvolvendo habilidades em análise de vulnerabilidades, fundamentos de SOC e ambiente Linux.
 
-# Connect with me:
+ **Foco atual de estudos e prática:**
+- Security Operations Center (SOC)
+- Análise de logs e detecção de incidentes
+- Linux e fundamentos de redes
+- 
+---
 
-<a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B7rmh%2Fo5QQWWGyNDNb5y77Q%3D%3D" target="_blank">
-  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" style="width: 150px; height: auto;">
+## Conecte-se comigo
+
+<a href="https://www.linkedin.com/in/juan-silva13n/" target="_blank">
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" width="140"/>
 </a>
 
 <a href="mailto:juansilvasousa085@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Gmail" style="width: 115px; height: auto;">
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" width="110"/>
 </a>
 
-<hr>
+---
 
+## Habilidades e Tecnologias
 
-## Technologies that I have already had contact with:
+### Segurança da Informação / SOC
+- Análise de Logs
+- Segurança Defensiva
+- Fundamentos de SOC
+- Detecção de Incidentes
+- Port Scanning
 
-<div style="display: inline_block">
+### Sistemas e Redes
+- Linux
+- Windows
+- Redes de Computadores 
 
-<img style="display: inline_block">
+### Programação e Ferramentas
+- Python
+- C#
+- Git e GitHub
 
-<img style="display: inline_block">
-
-
-<img align="left" width="50px" style="padding-right: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />          
-
-<img align="left" width="50px" style="padding-right: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-          
-<img align="left" width="50px" style="padding-right: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />   
-</div>
-
-<br clear="left"/>
-
-## GitHub Stats:
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=JuanSilva085&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanSilva085&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSilva085&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
-</p>
-
-<hr>
-
+---
