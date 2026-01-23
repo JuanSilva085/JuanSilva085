@@ -6,7 +6,7 @@ Possuo conhecimentos em fundamentos de **Cibersegurança**, **Redes de computado
 - Security Operations Center (SOC)
 - Análise de logs e detecção de incidentes
 - Linux e fundamentos de redes
-- 
+
 ---
 
 ## Conecte-se comigo
