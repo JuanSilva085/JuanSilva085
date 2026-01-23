@@ -1,4 +1,4 @@
-# Hi there 👋. I'm Juan! 😁
+# Hi there. I'm Juan! 
 
 <hr>
 
@@ -15,7 +15,7 @@
 <hr>
 
 
-## 💻 Technologies that I have already had contact with:
+## Technologies that I have already had contact with:
 
 <div style="display: inline_block">
 
@@ -33,7 +33,7 @@
 
 <br clear="left"/>
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 <table>
   <tr>
     <td>
